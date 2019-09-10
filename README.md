@@ -1,7 +1,5 @@
 # PHP GitHub API
 
-![PHP from Packagist](https://img.shields.io/packagist/php-v/KnpLabs/php-github-api)
-
 [![Build Status](https://travis-ci.org/KnpLabs/php-github-api.svg?branch=master)](https://travis-ci.org/KnpLabs/php-github-api)
 [![StyleCI](https://styleci.io/repos/3948501/shield?style=flat)](https://styleci.io/repos/3948501)
 [![Latest Stable Version](https://poser.pugx.org/knplabs/github-api/v/stable)](https://packagist.org/packages/knplabs/github-api)
